@@ -1,0 +1,11 @@
+## Interface: 16001
+## Title: |cff7fd8ffMo|r|cffa88bffteve|r Spells
+## Notes: A tab next to the spellbook: trainer spells you can learn now, and what comes at which level for how much.
+## Notes-huHU: Fül a varázskönyv mellett: mit tanulhatsz most a trénernél, és mi jön később melyik szinten, mennyiért.
+## Author: Zoltán Gosztonyi
+## Version: 0.1.1
+## SavedVariables: MoteveSpellsDB
+
+Theme.lua
+Data.lua
+Spells.lua
